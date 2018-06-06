@@ -1,7 +1,7 @@
 
 %% ‰Šú‰»
 clear 
-
+%test
 %% ƒf[ƒ^‚Ì“Ç‚İ‚İ
 
 train_name='application_train.csv';%
